@@ -1,0 +1,19 @@
+$grid-gutter-width: 0;
+$nav-tabs-border-radius:0;
+$nav-tabs-border-radius: 0;
+$nav-tabs-link-active-color: white;
+$nav-tabs-link-active-bg:#3964AB;
+$nav-link-hover-color: inherit;
+$nav-tabs-link-active-border-color: none;
+$nav-tabs-border-width: 1px;
+$nav-tabs-link-hover-border-color:#353B3C1A;
+$nav-tabs-border-color:none;
+$nav-tabs-link-active-border-color:#353B3C1A;
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1280px
+);
+@import "../node_modules/bootstrap/scss/bootstrap";
